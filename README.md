@@ -24,7 +24,7 @@ A two-player dice game built with JavaScript. Each player rolls a die, and the h
 - Include animations or styling effects to enhance visuals.
 
 ## Author
-[Your Name](https://github.com/Shreyjoshi3012)
+[Shrey Shekhar Joshi ](https://github.com/Shreyjoshi3012)
 
 ## License
 This project is open-source — feel free to use and modify as you like.
